@@ -2,7 +2,7 @@
 
 Un semplice programma per generare password alfanumeriche e non.
 
-## Installation
+## Come scaricarlo:
 
 Scaricare la release e avviare l'eseguibile [git](https://github.com/Punker58/password-gen-by-castorino).
 
